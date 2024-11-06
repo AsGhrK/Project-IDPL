@@ -14,8 +14,8 @@
 
 <h2>Links to Summary Presentation</h2>
 <ul>
-    <li><strong>English (EN)</strong>: <a href="https://www.canva.com/design/DAGU_zOI1cY/wrFgUSfoADq6Yxz_U28e5A/edit?utm_content=DAGU_zOI1cY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Presentation-Canva-Project-IDPL-English</a></li>
-    <li><strong>Português (PT-BR)</strong>: <a href="https://www.canva.com/design/DAGU_7QtNZM/3ctzlVBNF3Nnd-58GkvMbg/edit?utm_content=DAGU_7QtNZM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Apresentação-Canva-Projeto-IDPL-Português</a></li>
+    <li><strong>English (EN)</strong>: <a href="https://www.canva.com/design/DAGU_zOI1cY/sbWuA3CalB-uw9IFXiHTtA/view?utm_content=DAGU_zOI1cY&utm_campaign=designshare&utm_medium=link&utm_source=editor">Presentation-Canva-Project-IDPL-English</a></li>
+    <li><strong>Português (PT-BR)</strong>: <a href="https://www.canva.com/design/DAGU_7QtNZM/IZb4UW-TV_NBgtatPC0CIw/view?utm_content=DAGU_7QtNZM&utm_campaign=designshare&utm_medium=link&utm_source=editor">Apresentação-Canva-Projeto-IDPL-Português</a></li>
 </ul>
 
 <h2>Links to Project Templates</h2>
