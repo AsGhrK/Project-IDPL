@@ -1,6 +1,6 @@
 <h1>Project-IDPL</h1>
 
-<p>This repository contains the portfolio of the end-of-course project by Davi Casari, a student in the 6th semester of Informatics at IFMS, under the guidance of Professor Marcelino Vitor dos Santos Garcia. The project is entitled <strong>“Development of an Interactive Didactic Site for Learning Programming: A Study on Self-Learning and Monitoring Student Progress”</strong>.</p>
+<p>This repository contains the portfolio of the end-of-course project by Davi Casari, a student in the 6th semester of Informatics at IFMS, under the guidance of Professor Marcelino Vitor dos Santos Garcia. The project is entitled <strong>“Development of an Interactive Didactic Site to Assist Programming Practice: A Study on Self-Learning and Monitoring Student Progress”</strong>.</p>
 
 <p>Below are the links for a better understanding of the project.</p>
 
